@@ -28,9 +28,4 @@ The **AI Image Generator** is a web-based application that allows users to gener
    https://github.com/yourusername/ai-image-generator.git
 
    
- Usage
-Enter a descriptive prompt in the input box.
-Click on the Generate button.
-Wait for the AI to generate an image.
-The generated image will be displayed on the screen.  git clone https://github.com/yourusername/ai-image-generator.git
-   cd ai-image-generator
+
